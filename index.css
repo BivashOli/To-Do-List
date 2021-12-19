@@ -1,0 +1,55 @@
+body{
+   /* background-color: rgb(79, 146, 79);
+   */
+   background-color:  darkseagreen ;
+}
+#container{
+
+    text-align: center;
+}
+
+#textbox{
+    font-size: 50px;
+    height: 50px;    
+}
+
+#submit{
+    border: none;
+    background-color: deepskyblue;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin-top: 20px;
+}
+
+#output{
+    color: black;
+    font-size: x-large;
+    margin-left: 400px;
+    margin-right: 400px;
+    list-style: none;
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
+.checkBox{
+    float: left;
+    transform: scale(2);
+}
+
+
+.deleteButton{
+    float: right;
+}
+
+li{
+    background-color: whitesmoke;
+    border-style: ridge;
+        margin: 15px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
